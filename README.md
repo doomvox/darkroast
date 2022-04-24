@@ -1,12 +1,15 @@
 # The definitely unofficial Raku test suite
 
-Tests for the Raku programming language in addition to the official "roast".
-This is intended to have a lower barrier to entry than the official tests--
-feel free to ask to be added to the Contributors.
+These are tests for the Raku programming language in addition to the
+official "roast" tests.
 
 This is a place to test aspects of the Raku programming language that
 might not be so well covered by the roast tests.  You might think of
 it as a test-bed for new tests.
+
+This is intended to have a lower barrier to entry than the official tests--
+feel free to ask to be added to the Contributors.
+
 
 ## the official Raku test suite
 
