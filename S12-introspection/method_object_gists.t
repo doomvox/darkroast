@@ -2,9 +2,6 @@ use v6;
 
 use Test;
 
-## TODO rename
-##   method_object_gists.t
-
 =begin pod
 
 Additional tests for .^methods to verify this issue has been fixed:
